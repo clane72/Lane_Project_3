@@ -1,7 +1,7 @@
 # Classic Arcade Game Clone Project
 
 ## How to Play?
-- Open the [Live Preview](https://clane72.github.io/)
+- Open the [Live Preview](index.html)
 - Using your arrow keys move the player in the direction of the river.
 - Avoid colliding with the enemy bugs.
 - When you reach the river you have won the game!
